@@ -15,7 +15,7 @@ Um aplicativo de lista de compras desenvolvido em **Kotlin**.
 ---
 
 ## 📸 Telas do Projeto
-![Captura de tela 2025-05-19 102633](https://github.com/user-attachments/assets/520d0fbd-48a5-422f-82a5-b0ffc031!cbed)
+
 
 
 -Lista de compras
