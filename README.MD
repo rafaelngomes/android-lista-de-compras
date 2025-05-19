@@ -16,20 +16,20 @@ Um aplicativo de lista de compras desenvolvido em **Kotlin**.
 
 ## 📸 Telas do Projeto
 -Tela Inicial do Aplicativo
-![Captura de tela 2025-05-19 102633](https://github.com/user-attachments/assets/520d0fbd-48a5-422f-82a5-b0ffc031cbed)
+![Captura de tela 2025-05-19 102633](C:\Users\RAFAEL\Android Kotlin\android-lista-de-compras-atualizado\images\Captura de tela 2025-05-19 102633.png)
 
 
 -Lista de compras
-![Captura de tela 2025-05-19 110104](https://github.com/user-attachments/assets/7c1d6727-aa33-4650-bd70-e8ff3a57a152)
+![Captura de tela 2025-05-19 110104](C:\Users\RAFAEL\Android Kotlin\android-lista-de-compras-atualizado\images\Captura de tela 2025-05-19 110104.png)
 
 
 - Lista de compras adicionando itens
-![Captura de tela 2025-05-18 144139](https://github.com/user-attachments/assets/4a956798-1502-454b-9a37-fc25f33324f1)
+  ![Captura de tela 2025-05-18 144139](C:\Users\RAFAEL\Android Kotlin\android-lista-de-compras-atualizado\images\Captura de tela 2025-05-18 144139.png)
 
 
 
 - Removendo arroz
-![Captura de tela 2025-05-18 144150](https://github.com/user-attachments/assets/a1cd64f3-0c8f-4696-8bf2-1be3adf3e43e)
+  ![Captura de tela 2025-05-18 144150](C:\Users\RAFAEL\Android Kotlin\android-lista-de-compras-atualizado\images\Captura de tela 2025-05-18 144150.png)
 
 
 ---
